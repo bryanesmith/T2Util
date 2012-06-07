@@ -1,0 +1,13 @@
+==== DESCRIPTION
+
+Very easy-to-use, object-oriented Java API that wraps the lower-level T2DECore utilities. T2Util is used for connecting to a 4700/4800 MALDI TOF/TOF mass spectrometer remotely and extracting monoisotopic peak lists. Useful for building an application that extracts the peak lists directly from the instrument instead of having to download the files manually.d li
+
+==== REQUIREMENTS
+
+  * Java 5 or greater.
+  * The following Oracle drivers [http://www.oracle.com/technetwork/database/enterprise-edition/jdbc101040-094982.html]
+    - ojdbc14.jar 
+    - ocrs12.jar
+    - orai18n.jar
+
+
